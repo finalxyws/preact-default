@@ -15,8 +15,11 @@ export function Header() {
 				<Link activeClassName={style.active} href="/profile">
 					Me
 				</Link>
-				<Link activeClassName={style.active} href="/profile/john">
+				<Link activeClassName={style.active} href="/profile/John">
 					John
+				</Link>
+				<Link activeClassName={style.active} href="/profile/Dylan">
+					Dylan
 				</Link>
 			</nav>
 		</header>
