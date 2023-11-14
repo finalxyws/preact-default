@@ -23,6 +23,11 @@ export default function Home() {
 					description="To learn more about Preact-CLI, read through the ReadMe & Wiki"
 					link="https://github.com/preactjs/preact-cli#preact-cli--"
 				/>
+				<Resource
+					title="Sheldon's GitHub"
+					description="To learn more about Sheldon, check out his GitHub"
+					link="https://github.com/finalxyws"
+				/>
 			</section>
 		</div>
 	);

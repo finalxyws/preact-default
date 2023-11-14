@@ -15,7 +15,7 @@ export default function App() {
 			<main>
 				<Router>
 					<Home path="/" />
-					<Profile path="/profile/" user="me" />
+					<Profile path="/profile/" user="Me" />
 					<Profile path="/profile/:user" />
 				</Router>
 			</main>
